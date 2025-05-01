@@ -12,4 +12,4 @@ This project demonstrates the full **Accounts Payable (AP)** cycle in **Oracle E
 
 This project reflects practical experience with **Oracle Financials**, demonstrating the real-world implementation of an Accounts Payable cycle in an ERP system. The goal is to showcase how **Oracle ERP** automates and manages the full lifecycle of accounts payable processes, ensuring accuracy and efficiency in financial operations.
 
-You can download the project files from (https://docs.google.com/presentation/d/1H6vLO0_jentojkdwozWscBhyliHaH1FJ/edit?usp=drive_link&ouid=101161774837849822674&rtpof=true&sd=true)
+You can download the project files from https://docs.google.com/presentation/d/1H6vLO0_jentojkdwozWscBhyliHaH1FJ/edit?usp=drive_link&ouid=101161774837849822674&rtpof=true&sd=true
